@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Java, Excel, R, Tableau
 
 ## Education
-* B.S. in (1) Information Systems and (2) Applied Mathematics and Statistics
+* B.S. in Information Systems and Applied Mathematics & Statistics
 
 ## Work Experience
 **Pharmacy Aide @ United Health Pharmacy (_June 2024 - Present_)**
