@@ -80,8 +80,8 @@ Created an Excel dashboard of data insights on the state of global happiness fro
 ![Dashboard](/images/world_happiness_dashboard.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+Thank you for dropping by !!
 
-                                                       Thank you for dropping by !!
-                                                          Have an AWESOME day :]
+   Have an AWESOME day :]
 
 
