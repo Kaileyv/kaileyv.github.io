@@ -1,4 +1,4 @@
-# Product Support/Data Analyst
+# Application Support/Data Analyst
 
 #### Technical Skills: Python, SQL, Java, Excel, R, Tableau
 
