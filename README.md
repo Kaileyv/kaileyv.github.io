@@ -1,4 +1,4 @@
-# Data Analyst
+# Product Support/Data Analyst
 
 #### Technical Skills: Python, SQL, Java, Excel, R, Tableau
 
@@ -41,22 +41,47 @@ Confluence website, resulting in a more streamlined onboarding process
 
 Collected data insights on the ongoing layoffs occurring in tech industries around the globe from 2020 to 2025, using SQL for data cleaning and exploratory data analysis as well as Tableau for data visualization. Dataset source: Kaggle
 
-![Dashboard]()
+![Dashboard](https://github.com/Kaileyv/global-tech-layoffs/blob/main/images/tech_layoffs_dashboard.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+### ESG Financial Performance
+[Project on GitHub](https://github.com/Kaileyv/esg-financial)
+
+Created an Excel dashboard of data insights on the Environmental, Social, and Governance (ESG) and financial performance of a thousand global companies across nine industries from 2015 to 2025, using Excel features and functions for data cleaning and exploratory data analysis. Dataset source: Kaggle
+
+![Dashboard](https://github.com/Kaileyv/esg-financial/blob/main/images/company_esg_financial_dashboard.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Impact of Remote Work on Mental Health
 [Project on GitHub](https://github.com/Kaileyv/remote-work-mental-health)
 
 Obtained data insights on the impact of remote work on the mental health of individuals across a diverse range of industries, using SQL for data cleaning and exploratory data analysis as well as Tableau for data visualization. Dataset source: Kaggle
 
-![Dashboard]()
+![Dashboard](https://github.com/Kaileyv/remote-work-mental-health/blob/main/images/remote_work_mental_health_dashboard.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Extrovert Introvert Behavior
 [Project on GitHub](https://github.com/Kaileyv/extrovert-introvert-behavior)
 
 Acquired data insights on the relation between social behavior and personality prediction by utilizing key indicators of extroversion and introversion, using SQL for data cleaning and exploratory data analysis as well as Tableau for data visualization. Dataset source: Kaggle
 
-![Dashboard]()
+![Dashboard](https://github.com/Kaileyv/extrovert-introvert-behavior/blob/main/images/extrovert_introvert_behavior_dashboard.png)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
+### World Happiness Report
+[Project on GitHub](https://github.com/Kaileyv/world_happiness)
+
+Created an Excel dashboard of data insights on the state of global happiness from 2005 to 2023 by utilizing happiness indicators influenced by societal behavior, using Excel features and functions for data cleaning and exploratory data analysis. Dataset source: Kaggle
+
+![Dashboard](https://github.com/Kaileyv/world_happiness/blob/main/images/world_happiness_dashboard.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                       Thank you for dropping by !!
+                                                          Have an AWESOME day :]
 
 
