@@ -1,11 +1,17 @@
-# Product Support Analyst
+# Production Support Analyst
 
-#### Technical Skills: Python, Linux, SQL, Java, Excel, R, Tableau
+#### Technical Skills: Linux, Python, SQL, Java, Excel, R, Tableau
 
 ## Education
 * B.S. in Information Systems and Applied Mathematics & Statistics
 
 ## Work Experience
+**Production Support Analyst Trainee @ Mthree Academy (_October 2025 - Present_)**
+* Enrolled in a full-time training program focused on production support in financial services
+* Developed technical skills in Linux, Python, and SQL through hands-on exercises and real-world simulated projects
+* Collaborated with peers on team-based projects focused on diagnosing and resolving production support scenarios
+* Built foundational understanding of front-to-back operations in investment banking, covering financial markets, trading, risk, and regulations to prepare for a product support role
+
 **Pharmacy Aide @ United Health Pharmacy (_June 2024 - September 2025_)**
 * Assisted pharmacists and pharmacy technicians with clerical and customer service duties to ensure smooth operations at the retail pharmacy
 * Offered friendly greetings to patients/customers and communicated with them to assess their needs before directing them to the pharmacist as needed
