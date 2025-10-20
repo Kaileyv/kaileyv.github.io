@@ -6,7 +6,7 @@
 * B.S. in Information Systems and Applied Mathematics & Statistics
 
 ## Work Experience
-**Pharmacy Aide @ United Health Pharmacy (_June 2024 - Present_)**
+**Pharmacy Aide @ United Health Pharmacy (_June 2024 - September 2025_)**
 * Assisted pharmacists and pharmacy technicians with clerical and customer service duties to ensure smooth operations at the retail pharmacy
 * Offered friendly greetings to patients/customers and communicated with them to assess their needs before directing them to the pharmacist as needed
 * Efficiently operated the cash register and stocked over-the-counter medications as well as retail items
