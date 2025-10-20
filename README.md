@@ -1,6 +1,6 @@
 # Application Support/Data Analyst
 
-#### Technical Skills: Python, SQL, Java, Excel, R, Tableau
+#### Technical Skills: Python, Linux, SQL, Java, Excel, R, Tableau
 
 ## Education
 * B.S. in Information Systems and Applied Mathematics & Statistics
