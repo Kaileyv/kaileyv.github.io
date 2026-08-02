@@ -6,7 +6,7 @@
 * B.S. in Information Systems and Applied Mathematics & Statistics
 
 ## Work Experience
-**Production Support Analyst Trainee @ Mthree Academy (_October 2025 - Present_)**
+**Production Support Analyst Trainee @ Mthree Academy (_October 2025_)**
 * Enrolled in a full-time training program focused on production support in financial services
 * Developed technical skills in Linux, Python, and SQL through hands-on exercises and real-world simulated projects
 * Collaborated with peers on team-based projects focused on diagnosing and resolving production support scenarios
