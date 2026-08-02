@@ -25,7 +25,7 @@
   * Analyzed iPhone ticket requests and iPhone orders to address understocking issues by forecasting monthly inventory orders, resulting in an increase in efficiency and customer satisfaction  
   * Collaborated with colleagues to develop a Property Control Management report, quantifying customer interactions with the Mobile Devices team from 2013 to 2023, for data security purposes
 
-**Software Engineering Intern @ U.S. Bank - Elavon** (_June 2023 - August 2023_)
+**Software Engineering Intern @ U.S. Bank - Elavon (_June 2023 - August 2023_)**
 * Worked on Elavon’s Data API team of 13 software engineers to contribute to the Elavon data fabric 
 * Coded in Java to implement a drop-down menu of options for corresponding fields of text for a payment processing application. Tested and deployed code changes in DEV, IT, and Apollo environments 
 * Conducted and recorded performance comparison of Data API response times for similar-sized business transactions between NA and EU databases using Postman and SQLDeveloper, resulting in new insights for both NA and EU teams 
@@ -34,7 +34,7 @@
 * Produced documentation for Maven Installation and Running Test Cases for Data API Developer Onboarding on 
 Confluence website, resulting in a more streamlined onboarding process 
 
-**Long Island Network for Clinical and Translational Science (LINCATS) Intern @ Stony Brook Medicine** (_January 2022 - May 2024_)
+**Long Island Network for Clinical and Translational Science (LINCATS) Intern @ Stony Brook Medicine (_January 2022 - May 2024_)**
 * Created and reformatted clinical research standard operating procedures for LINCATS
 * Assisted in designing the branching logic of questions for the Stony Brook Research Ripple Science survey on REDCap 
 * Performed queries on a clinical database platform, TriNetX, for quality assurance with a fellow intern to identify areas that require improvement 
