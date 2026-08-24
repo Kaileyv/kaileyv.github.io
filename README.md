@@ -6,16 +6,21 @@
 * B.S. in Information Systems and Applied Mathematics & Statistics
 
 ## Work Experience
+<!--
+
 **Production Support Analyst Trainee @ Mthree Academy (_October 2025_)**
 * Enrolled in a full-time training program focused on production support in financial services
 * Developed technical skills in Linux, Python, and SQL through hands-on exercises and real-world simulated projects
 * Collaborated with peers on team-based projects focused on diagnosing and resolving production support scenarios
 * Built foundational understanding of front-to-back operations in investment banking, covering financial markets, trading, risk, and regulations to prepare for a product support role
 
-**Pharmacy Aide @ United Health Pharmacy (_June 2024 - September 2025_)**
-* Assisted pharmacists and pharmacy technicians with clerical and customer service duties to ensure smooth operations at the retail pharmacy
-* Offered friendly greetings to patients/customers and communicated with them to assess their needs before directing them to the pharmacist as needed
-* Efficiently operated the cash register and stocked over-the-counter medications as well as retail items
+-->
+
+**Pharmacy Aide @ United Health Pharmacy (_June 2024 - November 2025_)**
+* Provided friendly, professional service in a fast-paced retail environment while maintaining accuracy, attention to detail, and a positive customer experience
+* Greeted patients and customers, assessed their needs, answered general inquiries, and directed them to the pharmacist or appropriate staff member
+* Assisted pharmacists and pharmacy technicians with clerical, administrative, and customer service tasks to support efficient daily pharmacy operations
+* Operated the cash register, processed transactions accurately, and stocked over-the-counter medications and retail merchandise
 
 **IT Mobile Devices Intern @ Stony Brook Medicine (SBM) (_January 2023 - May 2024_)**
   * Utilized web-based tools such as the Cherwell Service Management, JAMF, SPOK Mobile, Verizon, and more to prepare new and swap iPhones for deployment to SBM faculty to ensure continuity of patient care
