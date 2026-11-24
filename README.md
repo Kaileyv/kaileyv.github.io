@@ -5,6 +5,11 @@
 ## Education
 * B.S. in Information Systems and Applied Mathematics & Statistics
 
+## About Me
+* Aspiring Production Support Analyst with foundational knowledge of Linux, Python, SQL, Excel, R, and Tableau 
+* Strong analytical, troubleshooting, and problem-solving abilities, with effective written and verbal communication skills and experience managing competing priorities 
+* A motivated, detail-oriented lifelong learner eager to apply technical and organizational skills to support system operations, resolve issues, and contribute to business objectives 
+
 ## Work Experience
 <!--
 
@@ -15,12 +20,17 @@
 * Built foundational understanding of front-to-back operations in investment banking, covering financial markets, trading, risk, and regulations to prepare for a product support role
 
 -->
+**Administrative Coordinator @ New Song Studio - Queens Music School (_September 2026 - Present_)**
+* Coordinated complex scheduling operations across multiple instructors and students, troubleshooting scheduling conflicts, unexpected cancellations, and availability issues while developing real-time solutions to minimize operational disruptions 
+* Served as the primary point of contact for students, parents, and visitors, managing incoming phone calls, emails, and messages while investigating routine inquiries, resolving issues, and escalating complex concerns to management when necessary 
+* Processed and documented electronic and cash transactions, maintaining accurate payment records and verifying information to support financial accuracy and reliable recordkeeping 
+* Managed and maintained digital records, student information, payment documentation, and administrative files using Google Sheets, Google Docs, Google Drive, and Microsoft Outlook, ensuring information remained organized and accessible 
+* Independently supported daily operations during solo shifts, prioritizing multiple concurrent requests, troubleshooting unexpected issues, communicating updates to students, families, instructors, and management, and maintaining operational continuity with minimal supervision 
 
 **Pharmacy Aide @ United Health Pharmacy (_June 2024 - November 2025_)**
-* Provided friendly, professional service in a fast-paced retail environment while maintaining accuracy, attention to detail, and a positive customer experience
-* Greeted patients and customers, assessed their needs, answered general inquiries, and directed them to the pharmacist or appropriate staff member
-* Assisted pharmacists and pharmacy technicians with clerical, administrative, and customer service tasks to support efficient daily pharmacy operations
-* Operated the cash register, processed transactions accurately, and stocked over-the-counter medications and retail merchandise
+* Supported pharmacists and pharmacy technicians with daily administrative support and customer service responsibilities, contributing to efficient pharmacy operations 
+* Served as an initial point of contact for customers, greeting patients, identifying their needs, addressing routine inquiries, and directing them to the appropriate pharmacy staff for assistance
+* Processed customer transactions using the cash register, handled payment inquiries, and maintained organized retail inventory by stocking over-the-counter medications and merchandise 
 
 **IT Mobile Devices Intern @ Stony Brook Medicine (SBM) (_January 2023 - May 2024_)**
   * Utilized web-based tools such as the Cherwell Service Management, JAMF, SPOK Mobile, Verizon, and more to prepare new and swap iPhones for deployment to SBM faculty to ensure continuity of patient care
